@@ -18,7 +18,6 @@ To get started with the project, you need to clone the repository by running the
 
 ```
 git clone https://github.com/<your-username>/<your-repo-name>.git
-
 ```
 This will create a copy of the project on your local machine that you can work on.
 
@@ -35,7 +34,6 @@ You can install these libraries using pip by running the following command:
 
 ```
 pip install pandas numpy matplotlib seaborn scikit-learn
-
 ```
 
 ### Installing
